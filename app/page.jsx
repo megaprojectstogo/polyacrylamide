@@ -7,7 +7,7 @@ export default function Home() {
         <p className="mb-4">
           Polyacrylamide (PAM) is a versatile water-soluble polymer widely used in industries such as wastewater treatment,
           mining, paper manufacturing, and agriculture. Its ability to modify the physical properties of liquids makes it
-          an essential chemical for flocculation, thickening, and solid–liquid separation.
+          an essential chemical for flocculation, thickening, and solid–liquid separation..
         </p>
 
         <h2 className="text-2xl font-semibold mt-8 mb-4">Anionic Polyacrylamide</h2>
